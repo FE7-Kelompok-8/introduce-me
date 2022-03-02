@@ -6,4 +6,4 @@ Source message
 
 ## What is Software Engineer
 
-Source message
+## Sebuah dispilin ilmu yang mempelajari bagaimana cara pembuatan dan perancangan sistem
